@@ -1,6 +1,6 @@
 You do not need to extract this file to run.
 
-**Windows will say this is a virus because it doesnt have a publisher. If you think this is a virus you can look at the code[it is open source]**
+**This is not a virus. If you think it is a virus you can look at the code**
 
 I do not condone Ddosing and if you ddos you are a loser.
 
