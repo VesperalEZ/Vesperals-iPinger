@@ -1,5 +1,6 @@
-# Vesperals-iPinger
-Show if someone is offline or online
+You do not need to extract this file to run.
+
+**If you think this is a virus you can right click the file and click edit to see the code**
 
 I do not condone Ddosing and if you ddos you are a loser.
 
